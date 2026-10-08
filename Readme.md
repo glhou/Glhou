@@ -11,3 +11,4 @@ I'm a 26 years old junior software engineer.
 - 🐍Python experience: Flask, Fastapi, Pydantic,SQLAlchemy
 - 🌐HTMX, Alpine.js
 - 🚧Learning: Golang, Typescript
+- Neovim enthusiast: [Check my dotfiles](https://github.com/glhou/kickstart.nvim)
